@@ -1,0 +1,5 @@
+# Exclude all images from the package
+exclude *.jpg
+exclude *.png
+exclude webpall/*.jpg
+exclude webpall/*.png
