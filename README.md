@@ -1,6 +1,8 @@
 
 # webpall
 
+![PyPI Downloads](https://static.pepy.tech/badge/webpall)
+
 `webpall` is a Python-based command-line tool designed to convert images in JPG and PNG formats to WebP format. It offers flexible options for quality settings, including or excluding subdirectories, and managing original files post-conversion. With WebP format, you can achieve smaller file sizes without significant loss in quality, making it an excellent choice for web optimization and storage management.
 
 ## Features
